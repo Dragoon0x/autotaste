@@ -1,0 +1,16 @@
+[project]
+name = "autotaste"
+version = "0.1.0"
+description = "Can a machine develop taste? Show it what you admire. Find out what it sees."
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.42.0",
+    "playwright>=1.40.0",
+]
+
+[project.optional-dependencies]
+viz = ["matplotlib>=3.8.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

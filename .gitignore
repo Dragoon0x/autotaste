@@ -1,0 +1,24 @@
+# autotaste
+history/
+!history/.gitkeep
+references/*.png
+references/*.jpg
+references/*.jpeg
+references/*.webp
+!references/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# uv
+uv.lock
+
+# env
+.env
+
+# os
+.DS_Store
+Thumbs.db
