@@ -2,7 +2,7 @@
 
 ![autotaste evolution](history_preview.png)
 
-*Taste used to be the thing that couldn't be taught. You either had it or you didn't. Decades of design education tried to formalize it into principles, grids, color theory, Gestalt laws. But everyone knew those were just the scaffolding. The real thing, the ability to look at something and know it's right before you can explain why, that lived somewhere deeper. Somewhere we couldn't reach with rules. This repo asks a simple question: can a machine develop taste? Not follow instructions. Not optimize a metric. Develop a sensibility. Look at things you admire, make things that feel like them, and then tell you what it learned about why they work. -@Dragoon0x, March 2026*
+*Taste used to be the thing that couldn't be taught. You either had it or you didn't. Decades of design education tried to formalize it into principles, grids, color theory, Gestalt laws. But everyone knew those were just the scaffolding. The real thing, the ability to look at something and know it's right before you can explain why, that lived somewhere deeper. Somewhere we couldn't reach with rules. This repo asks a simple question: can a machine develop taste? Not follow instructions. Not optimize a metric. Develop a sensibility. Look at things you admire, make things that feel like them, and then tell you what it learned about why they work.*
 
 The idea: drop reference images into a folder. Screenshots of interfaces, designs, layouts, anything you admire. The agent studies them, extracts what makes them work, then generates original designs that close the gap between what it makes and what you showed it. No spec. No scoring rubric. Just references and a blank canvas.
 
